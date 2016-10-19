@@ -71,9 +71,9 @@ span { ... }
 .tweet .avatar { ... }
 ```
 
-## Media-quieries
+## Media-queries
 * Use mobile-first
-* When using media-quieries with scss nest them inside the selector. It makes them easy to find and manage.
+* When using media-queries with scss nest them inside the selector. It makes them easy to find and manage.
 
 ```css
 
