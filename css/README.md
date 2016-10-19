@@ -71,5 +71,23 @@ span { ... }
 .tweet .avatar { ... }
 ```
 
+## Media-quieries
+* Use mobile-first
+* When using media-quieries with scss nest them inside the selector. It makes them easy to find and manage.
+
+```css
+
+.article-header {
+  width: 100%;
+  padding: 20px;
+	
+  @media screen and (min-width: 768px) {
+    width: 75%;
+    padding: 40px;
+  }
+}
+
+```
+
 -------
 Inspired by http://codeguide.co/
