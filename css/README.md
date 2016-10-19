@@ -71,4 +71,5 @@ span { ... }
 .tweet .avatar { ... }
 ```
 
-
+-------
+Inspired by http://codeguide.co/
