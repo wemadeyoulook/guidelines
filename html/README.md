@@ -30,17 +30,12 @@ Strive to maintain HTML standards and semantics, but not at the expense of pract
 ## Attribute order
 Strive to have the HTML attributes in this particular order. In order for it to be easier to read:
 
-class
-
-id, name
-
-data-*
-
-src, for, type, href, value
-
-title, alt
-
-role, aria-*
+* `class`
+* `id, name`
+* `data-*`
+* `src, for, type, href, value`
+* `title, alt`
+* `role, aria-*`
 
 Classes make for great reusable components, so they come first. Ids are more specific and should be used sparingly (e.g., for in-page bookmarks), so they come second.
 
