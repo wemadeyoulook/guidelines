@@ -24,7 +24,9 @@
 ```
 
 ## HTML5 standards
-Strive to maintain HTML standards and semantics, but not at the expense of practicality. Use the least amount of markup with the fewest intricacies whenever possible.
+Strive to follow HTML standards and semantics, but not at the expense of practicality. Use the least amount of markup with the fewest intricacies whenever possible.
+
+http://html5doctor.com/
 
 
 ## Attribute order
