@@ -1,7 +1,7 @@
 # CSS / SCSS
 
 ## Syntax
-* Use soft tabs with two tabs
+* Use hard tabs 
 * When grouping selectors, keep individual selectors to a single line.
 * Include one space before the opening brace of declaration blocks for legibility.
 * Place closing braces of declaration blocks on a new line.
